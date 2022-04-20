@@ -67,6 +67,5 @@ a {
 @font-face {
 	font-family:sahel;
 	font-style:normal;
-	src:url(Sahel.woff) format("woff")
 }
 </style>
